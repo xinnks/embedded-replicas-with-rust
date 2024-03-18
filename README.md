@@ -1,6 +1,6 @@
 # Actix Todo List
 
-A todo list example featuring [Turso embedded replicas](https://turso.tech) and [Actix](https://github.com/actix/actix-web).
+A todo list example featuring [Turso embedded replicas](https://docs.turso.tech/features/embedded-replicas) and [Actix](https://github.com/actix/actix-web).
 
 ## Development
 
