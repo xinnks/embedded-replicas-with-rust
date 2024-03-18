@@ -36,7 +36,7 @@ cargo run
 Add a new task:
 
 ```sh
-curl "http://127.0.0.1:3000/todos" \
+curl "http://127.0.0.1:8080/todos" \
   -X POST \
   -H 'Content-Type: application/json' \
   -d '{"task": "Do task m"}'
@@ -45,5 +45,5 @@ curl "http://127.0.0.1:3000/todos" \
 Get the list of added tasks:
 
 ```sh
-curl "http://127.0.0.1:3000/todos"
+curl "http://127.0.0.1:8080/todos"
 ```
