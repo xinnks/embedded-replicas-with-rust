@@ -1,4 +1,4 @@
-# Actix Todo List
+# Embedded replicas with Rust
 
 A todo list example featuring [Turso embedded replicas](https://docs.turso.tech/features/embedded-replicas) and [Actix](https://github.com/actix/actix-web).
 
